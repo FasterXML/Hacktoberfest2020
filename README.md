@@ -17,15 +17,25 @@ see [Indeed Hacktoberfest 2020](https://engineering.indeedblog.com/indeed-hackto
 The only additional requirement is that issues to solve / PRs MUST be labeled with "hacktoberfest"
 (if such label is missing you may ask maintainers to check if issue should have it).
 
-### Where to add Graphic files?
+### Where to add Desing (gfx, styles) files?
 
 To allow for easier merging of content contributions, there is folder
 [design/](design/) which is intended as the merging target for contibutions:
 the idea is that you create a sub-folder named same as your Github id, and then
 you can add all content you want there without risk of merge conflict.
 
+For example, Jackson author would create folder --
+
+    design/cowtowncoder
+
+and optionally sub-folders beyond that, if there are multiple files -- to contain
+his submissions, as part of Pull Request.
+
 This space is not meant as the ultimate target but simply as a simple mechanism to
-share content outside of Pull Requests.
+share content outside of Pull Requests, so that merging is easy and merged components
+can be more easily accessed by community members (for purposes of feedback, and
+possibly voting for ones they prefer, if there are multiple submissions for same
+requests).
 
 -----
 
