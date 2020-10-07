@@ -19,6 +19,19 @@ see [Indeed Hacktoberfest 2020](https://engineering.indeedblog.com/indeed-hackto
 The only additional requirement is that issues to solve / PRs MUST be labeled with "hacktoberfest"
 (if such label is missing you may ask maintainers to check if issue should have it).
 
+<br>
+
+### Hacktoberfest Open Office Hours
+Join us for open office hours to talk about issues, propose ideas, help review code, and more.
+
+| Date         | Time           | Register  |
+| ------------- |:-------------:| -----:|
+| Friday, October 9 | 10AM-11AM PT | [register](https://organize.mlh.io/participants/events/5015-virtual-fasterxml-jackson-office-hours) |
+| Friday, October 16 | 10AM-11AM PT | [register](https://organize.mlh.io/participants/events/5014-virtual-fasterxml-jackson-office-hours) |
+| Friday, October 23 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5013-virtual-fasterxml-jackson-office-hours) |
+| Friday, October 30 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5010-virtual-fasterxml-jackson-office-hours) |
+<br>
+
 ### Where to add Design (gfx, styles) files?
 
 To allow for easier merging of content contributions, there is folder
