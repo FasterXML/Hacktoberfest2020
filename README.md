@@ -32,6 +32,11 @@ Join us for open office hours to talk about issues, propose ideas, help review c
 | Friday, October 30 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5010-virtual-fasterxml-jackson-office-hours) |
 <br>
 
+### Contribution Guidelines
+
+Details of making contributions can be found from main
+[Contributing.MD](https://github.com/FasterXML/jackson/blob/master/CONTRIBUTING.md).
+
 ### Where to add Design (gfx, styles) files?
 
 To allow for easier merging of content contributions, there is folder
@@ -61,11 +66,28 @@ we recommend in particular. Here are some
 
 ### Jackson Kotlin module
 
-(to be added: https://github.com/FasterXML/jackson-module-kotlin)
+Kotlin module (https://github.com/FasterXML/jackson-module-kotlin) adds support for Kotlin-specific
+data types, as well as some convenience methods to simplify usage to be more "Kotlin style".
+Due to Kotlin's rapid development there are sometimes new things to support.
+
+See [Issue Tracker](https://github.com/FasterXML/jackson-module-kotlin/issues/) for specific issues
 
 ### Jackson Scala module
 
-(to be added: https://github.com/FasterXML/jackson-module-scala)
+Scala module (https://github.com/FasterXML/jackson-module-scala) adds support for Scala-specific
+data types (such as collection types that do not extend JDK Collections).
+Main issues are related to making sure that module takes advantage of the latest `jackson-databind`
+features.
+
+See [Issue Tracker](https://github.com/FasterXML/jackson-module-scala/issues/) for specific issues
+
+### Java 8 date/time datatype module
+
+[Issue Tracker](https://github.com/FasterXML/jackson-modules-java8/issues) (see "datetime" label)
+
+### Joda date/time datatype module
+
+[Issue Tracker](https://github.com/FasterXML/jackson-datatype-joda/issues/)
 
 -----
 
