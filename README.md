@@ -83,11 +83,23 @@ See [Issue Tracker](https://github.com/FasterXML/jackson-module-scala/issues/) f
 
 ### Java 8 date/time datatype module
 
-[Issue Tracker](https://github.com/FasterXML/jackson-modules-java8/issues) (see "datetime" label)
+[Issue Tracker](https://github.com/FasterXML/jackson-modules-java8/issues) (note: there are other
+Java 8 issues too, but most are Date/Time releated)
 
 ### Joda date/time datatype module
 
 [Issue Tracker](https://github.com/FasterXML/jackson-datatype-joda/issues/)
+
+### Hibernate datatype module
+
+[Hibernate module](https://github.com/FasterXML/jackson-datatype-hibernate/) does currently
+not have a maintainer and is lagging behind other data type modules, so it would
+benefit from someone "adopting" it. Jackson team would be happy to find a new owner for
+it -- but all contributions are welcome.
+Specific challenges include compatiblity across Hibernate versions (there are actually 3
+different modules currently, for Hibernate versions 3.x, 4.x and 5.x+):
+
+[Issue Tracker](https://github.com/FasterXML/jackson-datatype-hibernate/issues)
 
 -----
 
