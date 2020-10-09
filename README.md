@@ -26,7 +26,7 @@ Join us for open office hours to talk about issues, propose ideas, help review c
 
 | Date         | Time           | Register  |
 | ------------- |:-------------:| -----:|
-| Friday, October 9 | 10AM-11AM PT | [register](https://organize.mlh.io/participants/events/5015-virtual-fasterxml-jackson-office-hours) |
+| Friday, October 9 | 10AM-11AM PT | (completed) |
 | Friday, October 16 | 10AM-11AM PT | [register](https://organize.mlh.io/participants/events/5014-virtual-fasterxml-jackson-office-hours) |
 | Friday, October 23 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5013-virtual-fasterxml-jackson-office-hours) |
 | Friday, October 30 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5010-virtual-fasterxml-jackson-office-hours) |
@@ -58,6 +58,12 @@ possibly voting for ones they prefer, if there are multiple submissions for same
 requests).
 
 -----
+
+## Good First Issues
+
+[Issues for New Contributors](https://github.com/FasterXML/jackson/wiki/Issues-For-New-Contributors)
+page is being updated (more) actively during Hacktoberfest and is a good place to check for
+issue over Jackson repositories.
 
 ## Projects specifically looking for help
 
@@ -100,6 +106,13 @@ Specific challenges include compatiblity across Hibernate versions (there are ac
 different modules currently, for Hibernate versions 3.x, 4.x and 5.x+):
 
 [Issue Tracker](https://github.com/FasterXML/jackson-datatype-hibernate/issues)
+
+## Bigger / Future Ideas
+
+There is [Jackson Future Ideas](https://github.com/FasterXML/jackson-future-ideas/)
+repository which contains ideas that do not fit into existing projects.
+
+[Issue Tracker](https://github.com/FasterXML/jackson-future-ideas/issues)
 
 -----
 
