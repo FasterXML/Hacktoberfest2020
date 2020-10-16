@@ -27,7 +27,7 @@ Join us for open office hours to talk about issues, propose ideas, help review c
 | Date         | Time           | Register  |
 | ------------- |:-------------:| -----:|
 | Friday, October 9 | 10AM-11AM PT | (completed) |
-| Friday, October 16 | 10AM-11AM PT | [register](https://organize.mlh.io/participants/events/5014-virtual-fasterxml-jackson-office-hours) |
+| Friday, October 16 | 10AM-11AM PT | (completed) |
 | Friday, October 23 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5013-virtual-fasterxml-jackson-office-hours) |
 | Friday, October 30 | 10AM-11AM PT |[register](https://organize.mlh.io/participants/events/5010-virtual-fasterxml-jackson-office-hours) |
 <br>
